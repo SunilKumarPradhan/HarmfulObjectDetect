@@ -1,0 +1,7 @@
+0 Blood
+1 Guns
+2 DeadBody
+3 Knife
+4 Rifle
+5 Rope
+6 Drugs
